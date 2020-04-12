@@ -1,8 +1,8 @@
 # WebApiTest
-## Autor: Miguel Fernandez
-## Objetivo: Test de C# 
-## Versión VS: 2019
-## Framework: .NetCore 3.1
+Autor: Miguel Fernandez
+Objetivo: Test de C# 
+Versión VS: 2019
+Framework: .NetCore 3.1
 
 1) Se expone el endpoint de tipo POST httpHost/Login que recibe un Json con los datos de inicio de sesión:  
   {
